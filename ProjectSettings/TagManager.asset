@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water Volume
+  - GameplayUI
+  - MainMenu
+  - PauseOption
+  - Settings
+  - T_Distance
+  - bar energy
+  - WaterDrop
+  - Water
+  - PlayerParticle
+  - MovementParticle
+  - DistanceReceiver
+  - CameraShot
+  - CaptureOption
+  - SettingOptionMM
+  - PauseMenu
+  - ExitOption
+  - CameraMeter
+  - CameraMeterText
+  - PointText
+  - Objects
+  - GameOver
+  - Shutter
+  - BGM
+  - SFX
+  - SliderBGM
+  - SliderSFX
+  - ToggleBGM
+  - ToggleSFX
+  - DistancePoint
+  - ScreenShotTaken
+  - CalculatedPoint
+  - ShowImage
+  - MyPoints
+  - MuddyWater
+  - ReverseWater
+  - AfterWaterfall
+  - Stone
+  - Energy
+  - PanelTransisi
+  - CoinParticle
+  - EnergyAbsorber
+  - ShopAndUpgrade
+  - UpgradeMenu
+  - GameManager
+  - UICanvas
+  - EnergyObjects
+  - BackOption
+  - ShopItem
+  - LockIcon
+  - GalleryPreview
+  - AllDistance
+  - AllPhotoCaptured
+  - PhotoView
+  - FinalPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bg
+  - POSTPROCESSING
+  - SECONDCAM
+  - 
+  - 
+  - powerup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 4232631747
+    locked: 0
