@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water Volume
+  - GameplayUI
+  - MainMenu
+  - PauseOption
+  - Settings
+  - T_Distance
+  - bar energy
+  - WaterDrop
+  - Water
+  - PlayerParticle
+  - MovementParticle
+  - DistanceReceiver
+  - CameraShot
+  - CaptureOption
+  - SettingOptionMM
+  - PauseMenu
+  - ExitOption
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
